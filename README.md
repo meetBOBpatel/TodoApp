@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I had no issuse wile building other than starting the emulator itself. The emulator would crash sometimes. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
